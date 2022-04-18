@@ -1,7 +1,7 @@
 
 # stepik-org-printer (h1)
 
-https://ucarecdn.com/02b8ff49-8f2b-4ce9-be84-7d4bdc6b9b67/
+![alt text](https://ucarecdn.com/02b8ff49-8f2b-4ce9-be84-7d4bdc6b9b67/)
 
 Это проект для вывода моего персонального идентификатора на *образовательной платформе* ```stepik.org```
 
